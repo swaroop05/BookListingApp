@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text Size of Book Title -->
+    <dimen name="book_title_text_size">16sp</dimen>
+    <!-- Text Size of Author[s] -->
+    <dimen name="author_text_size">14sp</dimen>
+</resources>
